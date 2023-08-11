@@ -2,4 +2,5 @@
     <string name="app_name">My First Git Project</string>
     <string name="my_first_github_project">My First Github Project</string>
     <string name="rechange_main_text">rechange main text</string>
+    <string name="rechange_text_stage_2">rechange text stage 2</string>
 </resources>
